@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Animal Trading Cards
+  </title>
+</head>
+  <body>
+    <h2> Royal Albatross Family
+      </h2>
+      <div id= "albatross">
+        <img src="http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/10/Albatross-Couple-and-Baby-Family-Wallpaper.jpg" alt="Albatross family" class="Albatross">
+          <div class="Albatross">
+        <h3>
+      <b>Albatross can circumnavigate the world!
+    </b>
+  </h3>
+  <ul id="scooptydoop">
+<li>
+  <a href="https://en.wikipedia.org/wiki/Albatross" alt="Albatross Wikipedia">
+  </a>
+    <i>Large Seabirds
+        </i>
+      </li>
+        <li>
+          <i>Largest Wingspan of flying birds!
+          </i>
+      </li>
+        <li>
+          <i>Highly efficient in the air! So much they use wind current to circumnavigate the world!!
+          </i>
+        </li>
+      <li>
+        <i>Epic, did you know they feed on squid, fish, and krill? They can see them while navigate the world!
+        </i>
+      </li>
+    </ul>
+      <h3 class="h3">
+        Albatross Description
+          <a href="https://en.wikipedia.org/wiki/Albatross">To find out more.
+          </a>
+        </h3>
+      </div>
+    </div>
+  </body>
+</html>
